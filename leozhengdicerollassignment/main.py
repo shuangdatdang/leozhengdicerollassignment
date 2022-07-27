@@ -47,7 +47,7 @@ while loop:
     elif selection == "2":
         fivetimes()
     elif selection == "3":
-        n = input("How many rolls would your like? ")
+        n = input("How many rolls would you like? ")
         m = 1
         while m <= int(n):
             once()
